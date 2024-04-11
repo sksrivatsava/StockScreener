@@ -13,6 +13,7 @@ class SalesData {
 
 class GraphScreen extends StatefulWidget {
   List<dynamic> l;
+  //huuug
   dynamic s;
   GraphScreen(this.l,this.s);
   @override
